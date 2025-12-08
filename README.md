@@ -1,6 +1,6 @@
 <!-- Ultra Stylish Minimal Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=6A11CB&text=Hi%2C%20I'm%20Ruttala%20Harish%20👋&height=150&fontSize=48&desc=Machine%20Learning%20%7C%20Web%20Development%20%7C%20AI%20%7C%20Python&descAlignY=75&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=6A11CB&text=Hi%2C%20I'm%20Harish%20👋&height=150&fontSize=48&desc=Machine%20Learning%20%7C%20Web%20Development%20%7C%20AI%20%7C%20Python&descAlignY=75&descAlign=50" />
 </p>
 
 <!-- Smooth Typing Animation -->
