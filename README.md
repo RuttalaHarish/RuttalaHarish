@@ -12,7 +12,11 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RuttalaHarish/RuttalaHarish/main/images/nameblock.png" title="Ruttala Harish" alt="Ruttala Harish">
+  <img src="https://raw.githubusercontent.com/RuttalaHarish/RuttalaHarish/main/images/nameblock.png.png" title="Ruttala Harish" alt="Ruttala Harish">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/main/dino.gif" height="250" width="250" title="Ruttala Harish" alt="Ruttala Harish" />
 </p>
 
 ### 👨‍💻 About Me :
@@ -25,7 +29,7 @@
 - 🐍 Proficient in **Python**  
   <img src="https://skillicons.dev/icons?i=python,pandas,numpy,scikit,tf,pytorch,matplotlib,seaborn,sql,mysql,git,github,vscode,windows" />
 
-- 💬 Ask me about **Machine Learning, AI, Python**.
+- 💬 Ask me about **machine learning**.
 - 📫 How to reach me:  
   [![Linkedin Badge](https://img.shields.io/badge/-Harish-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harishruttala/)  
   <a href="mailto:harishruttala4@gmail.com">
@@ -46,7 +50,7 @@
 | Category            | Tools & Technologies |
 |--------------------|-----------------------|
 | **Programming**    | Python, C, C++, R |
-| **ML/DL**          | TensorFlow, NumPy, Pandas, Matplotlib, Scikit-learn |
+| **ML/DL**          | TensorFlow, NumPy, Pandas,Matplltlib Scikit-learn |
 | **Web Development**| HTML, CSS, JavaScript |
 | **Databases**      | MySQL |
 | **Version Control**| Git, GitHub |
@@ -82,6 +86,7 @@
     <a href="https://github.com/RuttalaHarish"><img src="https://raw.githubusercontent.com/Revu-15/Weather-Dashboard/main/assets/mongodb-logo.png" title="MongoDB" alt="MongoDB" width="40" height="40"> </a>
 </p>
 
+
 ### 🌟   Tools and Technologies :
 <br>
 
@@ -92,15 +97,23 @@
     <a href="https://github.com/RuttalaHarish"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="40" height="40"> </a>
 </p>
 
+
+</details>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=RuttalaHarish&label=Profile%20views&color=0e75b6&style=flat" alt="RuttalaHarish" />
 </p>
 
 - 🔭 I am currently a student at **Chhattisgarh Swami Vivekananda University, UTD-Bhilai**
+
 - 🌱 I’m currently learning **Machine Learning Algorithms, Web Development**
+
 - 👨‍💻 All of my projects are available at: [GitHub Portfolio](https://github.com/RuttalaHarish)
+
 - 📝 I regularly write project documentation and contribute to open-source repositories
+
 - 💬 Ask me about **Python, Machine Learning, AI, Data Science**
+
 - 📫 Reach me at: **harishruttala4@gmail.com**
 
 ## 🎓 Certification
@@ -111,6 +124,9 @@
 
 ## 🚀 Featured Projects
 
+## Projects  
+Here are some featured projects that you can see live:
+
 | Project | Description | Technologies / Notes | Live Link |
 |---|---|---|---|
 | **Crop Recommendation System** | Machine learning app to recommend crops based on soil and environmental data | Python, Pandas, NumPy, Scikit-learn, Streamlit | [View Live](https://crop-recommendation-system-using-machine-learning-ruttalaharish.streamlit.app/) |
@@ -119,12 +135,16 @@
 
 > 🚧 *More exciting projects are under development!*
 
+---
+
 - ⚡ Fun fact: **I love turning data into stories! 📊**
+- ⚡ Fun fact: **Data Never Lies! 📊**
 
 ## Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harishruttala/)
 [![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail)](mailto:harishruttala4@gmail.com)
+
 
 ## Languages and Tools:
 
@@ -152,11 +172,12 @@
   </a>
 </p>
 
----
-
 ## 🎯 Quote of the Day
 > *"First, solve the problem. Then, write the code."* – John Johnson
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF416C,100:FF4B2B&height=120&section=footer" />
 </p>
+
+---
+
