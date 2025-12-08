@@ -37,7 +37,7 @@
   </a>
 
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I enjoy turning messy data into clear insights and building small ML projects for fun.  
+- ⚡ Fun fact: I enjoy exploring datasets and discovering interesting patterns hidden in them.  
 - 💡 Open to internships, collaborations, and project ideas in ML & Data Science.
 
 ---
@@ -173,7 +173,7 @@ Here are some featured projects that you can see live:
 </p>
 
 ## 🎯 Quote of the Day
-> *"First, solve the problem. Then, write the code."* – John Johnson
+> *"The goal is not to be better than others, but to be better than your previous self."* – DeepMind Philosophy
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF416C,100:FF4B2B&height=120&section=footer" />
