@@ -27,7 +27,7 @@
 - 👀 Passionate about Data Science, Machine Learning.
 - 🌱 Currently learning **Machine Learning Projects** and **Beginning Web Development**.
 - 🐍 Proficient in **Python**  
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,scikit,tf,pytorch,matplotlib,seaborn,sql,mysql,git,github,vscode,windows" />
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy" />
 
 - 💬 Ask me about **machine learning**.
 - 📫 How to reach me:  
