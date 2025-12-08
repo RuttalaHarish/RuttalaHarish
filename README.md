@@ -12,20 +12,16 @@
 ---
 
 <p align="center">
-  <a href = "https://madhurimarawat.github.io/NameBlock-Designer/"><img src = "https://github.com/Revu-15/Revu-15/blob/main-HEY%2C-I-am-Revanth-Reddy/POLAMREDDY%20REVANTH%20REDDY_NameBlock%20(1).png" title = "NameBlock" alt = "NameBlock"></a>
+  <img src="https://raw.githubusercontent.com/RuttalaHarish/RuttalaHarish/main/images/nameblock.png.png" title="Ruttala Harish" alt="Ruttala Harish">
 </p>
 
 <p align="center">
-   
-  <img src="https://raw.githubusercontent.com/<ruttlala harish>/<ruttala harish>/main/assets/your-avatar.gif" height="250" width="250" />
-
-
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/main/dino.gif" height="250" width="250" title="Ruttala Harish" alt="Ruttala Harish" />
 </p>
-
 
 ### 👨‍💻 About Me :
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+Science+Student;Machine+Learning+Enthusiast;Data+Science+Practitioner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Machine+Learning+Enthusiast;Web+Developer;Python+Programmer;Always+Learning)](https://git.io/typing-svg)
 
 - 👋 I’m **Ruttala Harish** (Harish) :student:
 - 👀 Passionate about Data Science, Machine Learning.
