@@ -1,16 +1,15 @@
 <!-- Ultra Stylish Minimal Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=6A11CB&text=Hi%2C%20I'm%20Harish%20👋&height=150&fontSize=48&desc=Machine%20Learning%20%7C%20Data%20Science%20%7C%20Deep%20Learning%20%7C%20Artificial%20Intelligence&descAlignY=75&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=6A11CB&text=Hi%2C%20I'm%20Ruttala%20Harish%20👋&height=150&fontSize=48&desc=Machine%20Learning%20%7C%20Web%20Development%20%7C%20AI%20%7C%20Python&descAlignY=75&descAlign=50" />
 </p>
 
 <!-- Smooth Typing Animation -->
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=800&color=6A11CB&center=true&vCenter=true&width=800&lines=Computer+Science+%26+Engineering+Student;AI+%26+Data+Science+Enthusiast;Machine+Learning;Always+Exploring+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=800&color=6A11CB&center=true&vCenter=true&width=800&lines=Machine+Learning+Enthusiast;Machine+Learning+%7C+Web+Development+%7C+AI+%7C+Python;Passionate+About+Building+Intelligent+Systems;Always+Exploring+New+Technologies" />
 </p>
 
 ---
-
 
 <p align="center">
   <a href = "https://madhurimarawat.github.io/NameBlock-Designer/"><img src = "https://github.com/Revu-15/Revu-15/blob/main-HEY%2C-I-am-Revanth-Reddy/POLAMREDDY%20REVANTH%20REDDY_NameBlock%20(1).png" title = "NameBlock" alt = "NameBlock"></a>
@@ -18,39 +17,35 @@
 
 <p align="center">
    
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/main/dino.gif" height="250" width="250" title="Professional Male Programmer" alt="Professional Male Programmer">
+  <img src="https://raw.githubusercontent.com/<ruttlala harish>/<ruttala harish>/main/assets/your-avatar.gif" height="250" width="250" />
+
 
 </p>
 
 
----
-
-## 📄 Resume
-
-You can view my resume [Clickhere](https://drive.google.com/file/d/1r_3fcEzoGsXKhKqKwSJJ2UK6vhnaHlbw/view?usp=sharing).
-
----
-
-
-
 ### 👨‍💻 About Me :
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Data+Science+Enthusiast+🇮🇳)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+Science+Student;Machine+Learning+Enthusiast;Data+Science+Practitioner)](https://git.io/typing-svg)
 
-- 👋 I’m POLAMREDDY REVANTH REDDY :student:<br><br>
-- 👀 I’m deeply interested in the world of data science and its applications.<br><br>
-<img src="https://cdn.dribbble.com/users/107759/screenshots/2835499/data_love.gif" height = 100><br>
-- 🌱 Currently exploring and learning various aspects of data science.<br><br>
-- 🐍 Proficient in Python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="python language" width="35" height="35"><br><br>
-- 💬 Ask me about data analysis and machine learning concepts! 😀<br><br>
-- 🌐 Portfolio: [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-0A66C2?style=flat&logo=google-chrome&logoColor=white)](https://reavnthreddy-22.netlify.app/)  
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Revanth-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/polamreddy-revanth-reedy-30b147292/)
-<a href ="mailto:"><img src="https://github.com/madhurimarawat/Machine-Learning-Using-Python/assets/105432776/b6a0873a-e961-42c0-8fbf-ab65828c961a" height=35 width=30 title="Mail Illustration" alt="Mail Illustration📫" > </a><br><br>
-- 😄 Pronouns: He/Him.<br><br>
-- ⚡ Fun fact: I enjoy problem-solving and exploring new datasets in my free time! <br><br>
-- 💡 Always open to discussing new ideas and collaborations in the data science domain! 📊✨
+- 👋 I’m **Ruttala Harish** (Harish) :student:
+- 👀 Passionate about Data Science, Machine Learning.
+- 🌱 Currently learning **Machine Learning Projects** and **Beginning Web Development**.
+- 🐍 Proficient in **Python**  
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,scikit,tf,pytorch,matplotlib,seaborn,sql,mysql,git,github,vscode,windows" />
+
+- 💬 Ask me about **machine learning**.
+- 📫 How to reach me:  
+  [![Linkedin Badge](https://img.shields.io/badge/-Harish-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harishruttala/)  
+  <a href="mailto:harishruttala4@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/new-post.png" height="25" alt="email">
+  </a>
+
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I enjoy turning messy data into clear insights and building small ML projects for fun.  
+- 💡 Open to internships, collaborations, and project ideas in ML & Data Science.
 
 ---
+
 ## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,mysql,tensorflow,git,github,vscode,Jupyter" />
