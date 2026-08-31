@@ -137,7 +137,7 @@ Chhattisgarh Swami Vivekanand Technical University, Bhilai
 ### AI Internship — PranuSys Technologies India Private Limited
 **Jan 2026 – Jun 2026**
 
-[📜 View Certificate](YOUR_PRANUSYS_CERTIFICATE_LINK)
+[📜 View Certificate](https://drive.google.com/file/d/1bJEpAKNIdJfMkDbKiB1l9_RfVmThAxHY/view?usp=sharing)
 
 ### Machine Learning Internship — CodeAlpha
 **June 2025 | 1 Month**
