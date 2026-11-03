@@ -3,11 +3,17 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=6A11CB&text=Hi%2C%20I'm%20Harish%20👋&height=150&fontSize=48&desc=Aspiring%20AI%2FML%20Engineer%20%7C%20Python%20Developer%20%7C%20Generative%20AI%20%7C%20Machine%20Learning&descAlignY=75&descAlign=50" />
 </p>
 
+
 <p align="center">
   <a href="https://portfolio-three-pink-a7e4vhogyp.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Visit_My_Portfolio-6A11CB?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit My Portfolio"/>
   </a>
+  &nbsp;
+  <a href="https://drive.google.com/file/d/1hRBEupB9Cr-K2k0d2Kg82JdyIndG1WJc/view" target="_blank">
+    <img src="https://img.shields.io/badge/View_My_Resume-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View My Resume"/>
+  </a>
 </p>
+
 
 ---
 
