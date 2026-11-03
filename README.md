@@ -6,24 +6,13 @@
 
 <p align="center">
   <a href="https://portfolio-three-pink-a7e4vhogyp.vercel.app/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-6A11CB?style=for-the-badge&logo=vercel&logoColor=white"
-      alt="Visit My Portfolio"
-      width="260"
-      height="42"
-    />
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-6A11CB?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit My Portfolio"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://drive.google.com/file/d/1hRBEupB9Cr-K2k0d2Kg82JdyIndG1WJc/view" target="_blank">
-    <img
-      src="https://img.shields.io/badge/VIEW_MY_RESUME-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"
-      alt="View My Resume"
-      width="260"
-      height="42"
-    />
+    <img src="https://img.shields.io/badge/View_My_Resume-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View My Resume"/>
   </a>
 </p>
-
 
 
 ---
