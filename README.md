@@ -3,8 +3,16 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=6A11CB&text=Hi%2C%20I'm%20Harish%20👋&height=150&fontSize=48&desc=Aspiring%20AI%2FML%20Engineer%20%7C%20Python%20Developer%20%7C%20Generative%20AI%20%7C%20Machine%20Learning&descAlignY=75&descAlign=50" />
 </p>
 
+<p align="center">
+  <a href="https://portfolio-three-pink-a7e4vhogyp.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-6A11CB?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit My Portfolio"/>
+  </a>
+</p>
+
 ---
+
 ## 👨‍💻 About Me
+- 🌐 Portfolio: [Explore My Portfolio](https://portfolio-three-pink-a7e4vhogyp.vercel.app/)
 
 I'm **Ruttala Harish**, a B.Tech Computer Science & Engineering (Data Science) student focused on **AI/ML Engineering, Python Development, Generative AI, and intelligent application development**.
 
@@ -75,7 +83,18 @@ I'm **Ruttala Harish**, a B.Tech Computer Science & Engineering (Data Science) s
 - Performed **testing, debugging, AI output validation, and workflow optimization** to improve application stability and maintainability.
 
 ---
+---
 
+## 🌐 My Portfolio
+
+Explore my personal portfolio to learn more about my technical skills,
+professional experience, projects, and development journey.
+
+<p align="center">
+  <a href="https://portfolio-three-pink-a7e4vhogyp.vercel.app/">
+    <img src="https://img.shields.io/badge/Explore_My_Portfolio-Visit_Now-6A11CB?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore My Portfolio"/>
+  </a>
+</p>
 
 ## 🚀 Featured Projects
 
