@@ -104,6 +104,29 @@ professional experience, projects, and development journey.
 
 ## 🚀 Featured Projects
 
+
+### 🛒 UrbanCart – Full-Stack E-Commerce Platform
+
+A full-stack e-commerce platform built using **Python FastAPI** and React, featuring secure authentication, product management, shopping cart, wishlist, order processing, and online payment integration.
+
+**Key Features**
+- Modular REST API development using FastAPI
+- User authentication using JWT and bcrypt password hashing
+- MongoDB data models and CRUD operations
+- Product, category, cart, wishlist, and order management
+- Razorpay payment integration with HMAC signature verification
+- Role-based admin authorization
+- Admin dashboard with revenue tracking and order-status analytics
+
+**Tech Stack:** Python, FastAPI, MongoDB, JWT, bcrypt, Razorpay, React
+
+🔗 [View Repository](https://github.com/RuttalaHarish/UrbanCart)
+
+🔗 [View Live Demo](https://urban-cart-beige.vercel.app/)
+
+---
+
+
 ### 🤖 Automated Learning Video Generation Platform
 
 AI-powered educational video generation platform that transforms **Subject, Topic, and Duration** inputs into fully narrated and animated educational videos using Large Language Models (LLMs).
